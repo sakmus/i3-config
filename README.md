@@ -9,3 +9,5 @@ This repository contains all the configuration files for i3 environment includin
 - rofi [app launcher]
 - dmenu [alternative for rofi]
 - python-pywal16 [dynamic colors]
+
+![image-1](./img1.png)
